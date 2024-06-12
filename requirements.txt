@@ -1,3 +1,12 @@
 fastapi==0.106.0
 SQLAlchemy==2.0.23
 uvicorn==0.22.0
+psycopg2-binary==2.9.6
+python-dotenv==1.0.0
+alembic==1.13.1
+passlib==1.7.4
+bcrypt==4.0.1
+email-validator==2.1.1
+pytest==8.2.1
+SQLAlchemy-Utils==0.41.1
+httpx==0.24.1
